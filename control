@@ -1,0 +1,9 @@
+Package: com.imokhles.whatsappcallchooser
+Name: WhatsApp Call Chooser
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: choose between cellular call and whatsapp call
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
